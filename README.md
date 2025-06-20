@@ -1,4 +1,4 @@
-# Hola, soy Francisco. Este es mi portafolio. 👨‍💻
+# Hola, soy Francisco. Este es mi portafolio 👨‍💻
 
 Apasionado por la programación y el aprendizaje constante.  
 Aquí encontrarás mis proyectos personales, prácticas y avances en tecnologías como Python, Java y más.
