@@ -22,7 +22,7 @@ Aquí encontrarás mis proyectos personales, prácticas y avances en tecnología
 
 ### Backend / Frameworks  
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
 
 ## Certificado
 para despues....
