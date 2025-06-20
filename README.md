@@ -6,14 +6,8 @@ Aquí encontrarás mis proyectos personales, prácticas y avances en tecnología
 ---
 ## 🚀 Proyectos destacados
 
-- **Proyecto 1**  
-  Descripción.... 
-  [Repo](https://github.com/franyrc/NombreProyecto1) | [Demo](https://nombreproyecto1.demo.com)
-
-- **Proyecto2**  
-  Descripción.....
-  [Repo](https://github.com/franyrc/NombreProyecto2)
-
+- **Proyecto 1**
+- Trabajando en ello ⏳
 ## 🛠 Herramientas
 
 
