@@ -4,6 +4,15 @@ Desarrollador backend en formación. Apasionado por la programación y el aprend
 Aquí encontrarás mis proyectos personales, prácticas y avances en tecnologías como Python, Java y más.
 
 ---
+## 🚀 Proyectos destacados
+
+- **Proyecto 1**  
+  Descripción.... 
+  [Repo](https://github.com/franyrc/NombreProyecto1) | [Demo](https://nombreproyecto1.demo.com)
+
+- **Proyecto2**  
+  Descripción breve.....
+  [Repo](https://github.com/franyrc/NombreProyecto2)
 
 ## 🛠 Herramientas
 
