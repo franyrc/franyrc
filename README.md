@@ -11,11 +11,11 @@ Aquí encontrarás mis proyectos personales, prácticas y avances en tecnología
   [Repo](https://github.com/franyrc/NombreProyecto1) | [Demo](https://nombreproyecto1.demo.com)
 
 - **Proyecto2**  
-  Descripción breve.....
+  Descripción.....
   [Repo](https://github.com/franyrc/NombreProyecto2)
 
 ## 🛠 Herramientas
 
 | Aún no | Básico | Intermedio | Avanzado | Experto+ |
 |--------|--------|------------|----------|----------|
-| <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="40"/> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="40"/> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/rust/rust.png" height="40"/> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/ruby/ruby.png" height="40"/> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="40"/> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40"/> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="40"/> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40"/> | | |
+| <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="40"/> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="40"/> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/rust/rust.png" height="40"/> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/ruby/ruby.png" height="40"/> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40"/> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="40"/> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40"/> | | |
