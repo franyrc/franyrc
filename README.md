@@ -15,6 +15,8 @@ Aquí encontrarás mis proyectos personales, prácticas y avances en tecnología
 |--------|--------|------------|----------|----------|
 |   (El resto de lenguajes)     | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40"/> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="40"/> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40"/> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="40"/> |        |          |          |
 
+💻 Tech Stack:
+Java Python Bootstrap Flask Render Heroku Apache SQLite Hibernate Postgres
 
 ## Certificado
 para despues....
