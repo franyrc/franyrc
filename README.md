@@ -7,7 +7,7 @@ Aquí encontrarás mis proyectos personales, prácticas y avances en tecnología
 ## 🚀 Proyectos destacados
 
 - **Proyecto 1**
-- Trabajando en ello ⏳
+ Trabajando en ello ⏳
 
 
 ## 🛠 Herramientas
